@@ -2,8 +2,8 @@
 int mani(){
 
     int a,b,sum;
-    printf("enter and a and b");
-    scanf("%d%d",&a,&b);
+    a=5;
+    b=10;
     sum=a+b;
     printf("sum is %d",sum);
 }
